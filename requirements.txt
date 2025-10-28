@@ -1,3 +1,6 @@
 transformers 
 Pillow
 ultralytics
+dotenv
+accelerate
+torch
